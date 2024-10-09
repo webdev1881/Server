@@ -1,5 +1,5 @@
 export interface IProduct {
-  id: number
-  title: string
-  content: string
+  book_id: number
+  name: string
+  price: string
 }
